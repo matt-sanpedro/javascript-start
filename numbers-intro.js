@@ -24,4 +24,4 @@ x = 1;
 y = 2;
 y = x++;
 y++;
-console.log(x, y)
+console.log(x, y);
